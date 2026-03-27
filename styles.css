@@ -385,6 +385,7 @@ html, body {
 .detail-video-wrap video {
   width: 100%;
   height: auto;
+  max-height: 60vh; /* Limits the video height to 60% of the screen */
   display: block;
   object-fit: contain;
   background: #000;
