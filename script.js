@@ -7,7 +7,7 @@ const fights = {
       name: 'Yuji & Todo vs Hanami',
       category: 'Thesis',
       thumbnail: 'media/T1image.webp',
-      video: null,
+      video: 'media/T1.mp4,
       description: `Hanami is a powerful cursed spirit who attacks during the Kyoto Goodwill Event, one of the first moments where students face a real, life-threatening enemy. This fight matters because Todo's arrival completely transforms the battle from chaotic survival into something focused and deliberate, and his instant chemistry with Yuji gives the whole sequence a clear direction that never wavers. The audience always knows exactly what this fight is building toward, and it never loses that focus. That clarity is why it earns a 1 — like a strong thesis, it establishes one defensible idea and commits to it with confidence, making the entire fight feel purposeful and controlled from start to finish.`
     },
     {
@@ -27,7 +27,7 @@ const fights = {
       name: 'Yuji & Todo vs Mahito',
       category: 'Evidence & Commentary',
       thumbnail: 'media/E4image.jpg',
-      video: null,
+      video: 'media/E4.mp4',
       description: `Mahito is one of Yuji's most personal enemies, a cursed spirit who killed his closest friend and represents everything Yuji fears about himself. This fight is important because it forces Yuji to confront that trauma head-on while Todo enters as both a tactical partner and an emotional anchor, stabilizing the fight and pushing Yuji to evolve in real time. Every phase introduces something new — a shift in strategy, a character breakthrough, an escalation — and nothing feels wasted or disconnected. It earns a 4 because it operates like a top-scoring essay: the evidence is strong, the development is constant, and every moment is tied back to a bigger purpose with full, layered commentary.`
     },
     {
@@ -36,7 +36,7 @@ const fights = {
       name: 'Sukuna vs Mahoraga',
       category: 'Evidence & Commentary',
       thumbnail: 'media/E3image.webp',
-      video: null,
+      video: 'media/E3.mp4/webm',
       description: `Sukuna, the King of Curses, unleashes his full power against Mahoraga, an ancient shikigami known for adapting to any attack it survives. The fight is significant because it is the first time Sukuna is truly forced to think strategically rather than simply overpower an opponent, and the scale of destruction he causes in the process reshapes the entire battlefield. Even without context, the spectacle and creativity on display make it feel legendary and unmissable. It earns a 3 because while the evidence is overwhelming — strategy, escalation, visual impact — it leans more toward awe and domination than the emotional depth and layered commentary that would push it to a 4.`
     },
     {
@@ -45,7 +45,7 @@ const fights = {
       name: 'Yuji vs Choso',
       category: 'Evidence & Commentary',
       thumbnail: 'media/E2image.jpg',
-      video: null,
+      video: 'media/E2.mp4',
       description: `Choso, one of the Death Painting cursed spirits, hunts Yuji down to avenge his brothers in a brutal, enclosed fight with no room to breathe. The battle matters because Yuji is completely outmatched for most of it and has to survive through pure grit, making it one of the most physically intense and claustrophobic fights in the series. The setting and stakes are clear, and there are strong individual moments worth analyzing. It sits at a 2 because while the evidence is solid and respectable, it doesn't offer the variety or layered development of the higher-scoring examples — it's a competent, well-built fight with good support but limited depth.`
     },
     {
