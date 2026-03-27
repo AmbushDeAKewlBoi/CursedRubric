@@ -9,7 +9,7 @@ const fights = {
       thumbnail: 'media/T1image.webp',
       video: 'media/T1.mp4',
       videoType: 'video/mp4',
-      description: `Hanami is a powerful cursed spirit who attacks during the Kyoto Goodwill Event, one of the first moments where students face a real, life-threatening enemy. This fight matters because Todo's arrival completely transforms the battle from chaotic survival into something focused and deliberate, and his instant chemistry with Yuji gives the whole sequence a clear direction that never wavers. The audience always knows exactly what this fight is building toward, and it never loses that focus. That clarity is why it earns a 1 — like a strong thesis, it establishes one defensible idea and commits to it with confidence, making the entire fight feel purposeful and controlled from start to finish.`
+      description: `During the Kyoto Exchange Event, a Special Grade curse spirit ambushes the students, and everyone goes into survival. But when Todo steps in, it becomes a coodinated "jumping." This fight establishes the thesis of how Jujutsu Kaisen fights actually work: A coordinated jump on a opponent to create an unfair advantage. Instead of relying on the "one-on-one honor, the strongest fights in the series are defined by teamwork that makes the unbeatable beatable. This idea is introduced clearly in this fight: Todo and Yuji don't take turns trying to fight. They synchronize, and the fight never loose its purpose because of that. It earns the point because the thesis it presents is focused and shows the benchmark for how every other fight in JJK would end up happening."`
     },
     {
       id: 'T0',
@@ -19,7 +19,7 @@ const fights = {
       thumbnail: 'media/T0image.avif',
       video: 'media/T0.mp4',
       videoType: 'video/mp4',
-      description: `Yuji and Nobara face off against two Death Painting cursed spirits, Eso and Kechizu, in a fight fueled by survival and raw emotion. The battle is intense and carries real emotional payoff, especially in how Nobara refuses to back down, but so much is happening at once — revenge, anger, teamwork, body horror — that no single idea takes the lead. A viewer would feel the energy but might struggle to name the one thing holding it all together. That split focus is why it sits at 0; it has strong moments, but it doesn't lock onto one guiding purpose the way a true thesis needs to.`
+      description: `At the end of Season 1, Yuji and Nobara take on the Death Painting brothers in a fight which feels more of the fruits of their growth. The battle is intense and really satisfying because it shows how far the characters have come in the show. But this is exactly why it reads more like an evidence then a thesis. It proves something rather then proposing something. A thesis shouldn't have its own support; its supposed to make a claim which the rest of the essay would prove. This fight does the literal opposite -- shows the work before stating the idea which is why it would function as a strong body paragraph rather then thesis. It also leans into mechanics like the black flash, which are impressive but require explanations to understand, and a thesis should never need that much context to land.`
     }
   ],
   evidence: [
@@ -31,7 +31,7 @@ const fights = {
       thumbnail: 'media/E4image.jpg',
       video: 'media/E4.mp4',
       videoType: 'video/mp4',
-      description: `Mahito is one of Yuji's most personal enemies, a cursed spirit who killed his closest friend and represents everything Yuji fears about himself. This fight is important because it forces Yuji to confront that trauma head-on while Todo enters as both a tactical partner and an emotional anchor, stabilizing the fight and pushing Yuji to evolve in real time. Every phase introduces something new — a shift in strategy, a character breakthrough, an escalation — and nothing feels wasted or disconnected. It earns a 4 because it operates like a top-scoring essay: the evidence is strong, the development is constant, and every moment is tied back to a bigger purpose with full, layered commentary.`
+      description: `Yuji enters this fight at his lowest point -- mentally broken, overwealmed by guilt, and face to face with Mahito, the cursed spirit born from Humanity's hatred for other humans and the living embodiment of everything Yuji is terrified of becoming. Enter Todo, he helps Yuji not just as a person who snaps Yuji back into reality but also gives structure to the actual fight. The context around this battle is what makes it so rich: Mahito isn't just a super powerful enemey, he is a thematic mirror of Yuhi, and every exchange between those two carries weight thats far more then just physical wounds. This is where the thesis established earlier-coordinated jumping of an unfair opponent- is supported with granular evidence. Todos tatical help and Yuji's emotional arc within the fight itself, and the way the battle escalates without ever loosing function as direct, developed support for that central idea. It earns a 4 because every moment serves as evidenc, and every piece of evidence is followed by commentary that explains why it matters. Nothing is left on the table.`
     },
     {
       id: 'E3',
