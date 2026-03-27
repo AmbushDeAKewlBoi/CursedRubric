@@ -31,7 +31,7 @@ const fights = {
       thumbnail: 'media/E4image.jpg',
       video: 'media/E4.mp4',
       videoType: 'video/mp4',
-      description: `Yuji enters this fight at his lowest point -- mentally broken, overwealmed by guilt, and face to face with Mahito, the cursed spirit born from Humanity's hatred for other humans and the living embodiment of everything Yuji is terrified of becoming. Enter Todo, he helps Yuji not just as a person who snaps Yuji back into reality but also gives structure to the actual fight. The context around this battle is what makes it so rich: Mahito isn't just a super powerful enemey, he is a thematic mirror of Yuhi, and every exchange between those two carries weight thats far more then just physical wounds. This is where the thesis established earlier-coordinated jumping of an unfair opponent- is supported with granular evidence. Todos tatical help and Yuji's emotional arc within the fight itself, and the way the battle escalates without ever loosing function as direct, developed support for that central idea. It earns a 4 because every moment serves as evidenc, and every piece of evidence is followed by commentary that explains why it matters. Nothing is left on the table.`
+      description: `Yuji enters his fight at his lowest point -- mentally broken, overwealmed by guilt, and face to face with Mahito, the cursed spirit born from Humanity's hatred for other humans and the living embodiment of everything Yuji is terrified of becoming. Enter Todo, he helps Yuji not just as a person who snaps Yuji back into reality but also gives structure to the actual fight. The context around this battle is what makes it so rich: Mahito isn't just a super powerful enemey, he is a thematic mirror of Yuji, and every exchange between those two carries far more then just physical wounds. This is where the thesis established earlier-coordinated jumping of an unfair opponent- is supported with granular evidence. Todos tatical help and Yuji's emotional arc within the fight itself, and the way the battle escalates without ever loosing function as direct, developed support for that central idea. It earns a 4 because every moment serves as evidenc, and every piece of evidence is followed by commentary that explains why it matters. Nothing is left on the table.`
     },
     {
       id: 'E3',
@@ -41,7 +41,7 @@ const fights = {
       thumbnail: 'media/E3image.webp',
       video: 'media/E3.mp4.webm',
       videoType: 'video/webm',
-      description: `Sukuna, the King of Curses, unleashes his full power against Mahoraga, an ancient shikigami known for adapting to any attack it survives. The fight is significant because it is the first time Sukuna is truly forced to think strategically rather than simply overpower an opponent, and the scale of destruction he causes in the process reshapes the entire battlefield. Even without context, the spectacle and creativity on display make it feel legendary and unmissable. It earns a 3 because while the evidence is overwhelming — strategy, escalation, visual impact — it leans more toward awe and domination than the emotional depth and layered commentary that would push it to a 4.`
+      description: `Sukuna, the undisputed "King of Curses", goes all out with Mahoraga, an ancient shikigami that adapts to any and all phenomenom. This fight was the definition of an unstoppable force meeting an immovable object. The fight gives exactly what the audience wanted to see in the climax of the Shybuya incident: what happens when two of some of the strongest beings are forced give their strength all in a fight. The evidence here is just the overwhelming raw power and it proves beyond any doubt that the strongest characters in the series are able of absolute destruction. However, this fight doesn't reflect the thesis of coordinated jumping that defines JJK's best battles. Sukuna fights alone and wins alone. The style is different: it is a showcase of individual strength. That difference is why it sits at a 3. The evidence is plenty but supports a slightly different argument than the one the thesis is. `
     },
     {
       id: 'E2',
@@ -61,7 +61,7 @@ const fights = {
       thumbnail: 'media/E1image.jpg',
       video: 'media/E1.mp4',
       videoType: 'video/mp4',
-      description: `Early in the series, Yuji encounters a low-level insect curse and dispatches it quickly to demonstrate his raw physical ability. The scene serves its purpose — showing that Yuji is capable and confident — but it doesn't go much deeper than that surface-level function. A viewer would understand the point almost immediately and have little to discuss afterward. It earns a 1 because, like an essay with some evidence but limited commentary, the material is present but never developed into anything substantial or memorable.`
+      description: `Early in season 2, Yuji encounters a low-level insect curse and beats it quickly to demonstrate his raw physical ability. The scene serves its purpose — showing that Yuji is capable and confident — but it doesn't go much deeper than that surface-level function. A viewer would understand the point almost immediately and have little to discuss afterward. It earns a 1 because, like an essay with some evidence but limited commentary, the material is present but never developed into anything substantial or memorable.`
     },
     {
       id: 'E0',
@@ -71,7 +71,7 @@ const fights = {
       thumbnail: 'media/E0image.webp',
       video: 'media/E0.mp4',
       videoType: 'video/mp4',
-      description: `During the Kyoto Goodwill Event, Todo clashes with Megumi in a brief, aggressive exchange driven more by personality tension than real narrative stakes. The scene is interesting as a character moment — it reveals Todo's philosophy and puts pressure on Megumi — but it never develops into a full, structured fight with buildup, progression, and payoff. A viewer would likely see it as a confrontation rather than a complete battle. It fits a 0 because the pieces of conflict are technically there, but they never come together into something fully developed or analytically rich enough to build real commentary from.`
+      description: `During the Kyoto Goodwill Event, Todo fights with Megumi in a brief, aggressive exchange driven more by personality tension than real narrative stakes. The scene is interesting as a character moment but nothing else really. It shows Todo's philosophy and puts real pressure on Megumi. Even so, it never develops into a full fight with buildup, progression, and payoff. It fits a 0 because the pieces of conflict are technically there, but they never come together into something fully developed or analytically rich enough to build real commentary from.`
     }
   ],
   sophistication: [
@@ -83,7 +83,8 @@ const fights = {
       thumbnail: 'media/S1image.jpg',
       video: 'media/S1.mp4',
       videoType: 'video/mp4',
-      description: `The Sendai Colony arc is part of the Culling Game, a deadly tournament that forces sorcerers into chaotic, multi-sided battles with shifting alliances. This section matters because it showcases Yuta Okkotsu operating at the highest level — juggling multiple opponents, adapting strategies on the fly, and demonstrating a calm, terrifying competence that makes complexity look effortless. The conflict has multiple layers and more than one valid interpretation, which is rare for action sequences. It earns the sophistication point because, like an essay that goes beyond the obvious, it demonstrates nuance, strategic depth, and a level of control that rewards deeper analysis rather than just surface-level reaction.`
+      description: `The Sendai Colony is a warzone inside the Culling Game where three of the most dangerous sorcerers in the colonies: Dhruv Lakdawalla, Kurourushi, and Takako Uro. These guys have locked the entire area into a standoff because none of them can afford to move without exposing themselves to the others. Then Yuta Okkotsu walks in and turns a three-way deadlock into a three-versus-one against himself, and he handles it like the absolute GOAT he is. Yuta does not just beat them. He dominates a scenario that would have ended anyone else the second they tried. He adapted to completely different fighting styles, managing threat levels in real time, and making decisions under pressure that feel almost impossibly precise. This fight is the royalty of Jujutsu Kaisen battles because it has everything: shifting alliances, character showcases, depth, and a protagonist who earns every drop of his reputation as the strongest of the new generation. None of the fight feels disconnected. Every sentence goes back into the larger conflict in a way that stimulates deeper reading. It earns the sophistication point because it operates on a level of complexity and control that most fights in any series never reach, and it does so while looking effortless.
+`
     },
     {
       id: 'S0',
@@ -93,7 +94,7 @@ const fights = {
       thumbnail: 'media/S0image.jpg',
       video: 'media/S0.mp4',
       videoType: 'video/mp4',
-      description: `Gojo, the strongest sorcerer alive, faces Jogo, a Special Grade cursed spirit, in a fight that is essentially a masterclass in dominance rather than a true struggle. The scene is visually spectacular and undeniably entertaining, but the power gap is so massive that there is very little tension, strategy, or ambiguity to dig into. A viewer would walk away impressed but not particularly challenged to think deeper about what happened. It sits at 0 for sophistication because, while it delivers strong surface-level impact, it doesn't push into the nuance, complexity, or interpretive richness that the sophistication point demands.`
+      description: `Gojo, the strongest sorcerer alive, faces Jogo, a Special Grade cursed spirit, in a fight that exists show the power scaling of the Jujutsu Kaisen universe. It gets the job done too. The audience walks away understanding exactly how far above everyone else Gojo operates. But clarity is all it offers. The fight is not complex, it is not layered, and there is no real interpretive depth to dig into beyond the surface-level takeaway that Gojo is untouchable. Compared to the Sendai Colony, it is a straight line where the other is a web. It sits at 0 for sophistication because it communicates one idea in one way and does not invite the kind of deeper analysis that the sophistication point demands.`
     }
   ]
 };
