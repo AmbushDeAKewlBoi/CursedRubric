@@ -376,7 +376,7 @@ html, body {
   max-width: 900px;
   margin-top: 4rem;
   border-radius: 12px;
-  overflow: hidden;
+  overflow: visible;
   position: relative;
   background: #000;
   box-shadow: 0 10px 60px rgba(157,78,221,0.2);
@@ -388,7 +388,7 @@ html, body {
   display: block;
   object-fit: contain;
   background: #000;
-}
+}  
 
 .detail-thumbnail-wrap {
   width: 100%;
