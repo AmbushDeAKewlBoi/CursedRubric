@@ -7,7 +7,7 @@ const fights = {
       name: 'Yuji & Todo vs Hanami',
       category: 'Thesis',
       thumbnail: 'media/T1image.webp',
-      video: 'media/T1.mp4,
+      video: 'media/T1.mp4',
       description: `Hanami is a powerful cursed spirit who attacks during the Kyoto Goodwill Event, one of the first moments where students face a real, life-threatening enemy. This fight matters because Todo's arrival completely transforms the battle from chaotic survival into something focused and deliberate, and his instant chemistry with Yuji gives the whole sequence a clear direction that never wavers. The audience always knows exactly what this fight is building toward, and it never loses that focus. That clarity is why it earns a 1 — like a strong thesis, it establishes one defensible idea and commits to it with confidence, making the entire fight feel purposeful and controlled from start to finish.`
     },
     {
