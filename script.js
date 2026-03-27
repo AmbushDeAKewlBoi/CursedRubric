@@ -49,8 +49,8 @@ const fights = {
       name: 'Yuji vs Choso',
       category: 'Evidence & Commentary',
       thumbnail: 'media/E2image.jpg',
-      video: null,
-      videoType: null,
+      video: 'media/E2.mp4',
+      videoType: 'video/mp4',
       description: `Choso, one of the Death Painting cursed spirits, hunts Yuji down to avenge his brothers in a brutal, enclosed fight with no room to breathe. The battle matters because Yuji is completely outmatched for most of it and has to survive through pure grit, making it one of the most physically intense and claustrophobic fights in the series. The setting and stakes are clear, and there are strong individual moments worth analyzing. It sits at a 2 because while the evidence is solid and respectable, it doesn't offer the variety or layered development of the higher-scoring examples — it's a competent, well-built fight with good support but limited depth.`
     },
     {
